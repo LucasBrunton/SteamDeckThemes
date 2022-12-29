@@ -1,0 +1,10 @@
+{
+    "name": "Hide Non-Steam Games",
+    "author": "Vi",
+    "manifest_version": 3,
+    "target": "Library",
+    "description": "This will hide non-steam games period",
+    "inject": {
+        "shared.css": ["SP"]
+    }
+}

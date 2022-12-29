@@ -1,0 +1,7 @@
+div > .undefined {
+    display: none;
+}
+
+div.appportrait_LibraryItemBox_WYgDg:has(.undefined) {
+    display: none;
+}
